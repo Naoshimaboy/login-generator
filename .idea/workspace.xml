@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e2b4462-8e61-4058-b0d4-4771ccee2e4a" name="Default" comment="" />
+    <list default="true" id="9e2b4462-8e61-4058-b0d4-4771ccee2e4a" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/geco/LoginGeneratorTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,7 +27,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LoginServiceTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LoginServiceTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/geco/LoginServiceTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
@@ -33,6 +35,15 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginGeneratorTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/geco/LoginGeneratorTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="33" lean-forward="true" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -48,6 +59,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -397,7 +413,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5670000" />
+    <option name="totallyTimeSpent" value="5918000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1680" height="1023" extended-state="6" />
@@ -494,6 +510,7 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="BEK_SORT_TYPE" value="1" />
               <option name="RECENTLY_FILTERED_USER_GROUPS">
                 <collection />
               </option>
@@ -713,6 +730,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/geco/LoginGeneratorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="33" lean-forward="true" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
         </state>
       </provider>
     </entry>
