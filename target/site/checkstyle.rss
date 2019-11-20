@@ -25,8 +25,8 @@ under the License.
     <language>en-us</language>
     <copyright>&#169;2019</copyright>
     <item>
-      <title>File: 1,
-             Errors: 11,
+      <title>File: 2,
+             Errors: 40,
              Warnings: 0,
              Infos: 0
       </title>
@@ -46,7 +46,7 @@ under the License.
           <tbody>
                           <tr>
                 <td>
-                  <a href="http://www.example.com/checkstyle.html#geco.App.java">geco/App.java</a>
+                  <a href="http://www.example.com/checkstyle.html#geco.LoginGenerator.java">geco/LoginGenerator.java</a>
                 </td>
                 <td>
                   0
@@ -55,7 +55,21 @@ under the License.
                   0
                 </td>
                 <td>
-                  11
+                  21
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://www.example.com/checkstyle.html#geco.LoginService.java">geco/LoginService.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  19
                 </td>
               </tr>
                       </tbody>
